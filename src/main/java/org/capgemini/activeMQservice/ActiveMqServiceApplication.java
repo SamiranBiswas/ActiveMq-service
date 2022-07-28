@@ -43,6 +43,7 @@ public class ActiveMqServiceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ActiveMqServiceApplication.class, args);
+        System.out.print("GIT COMMIT");
     }
 
 }
